@@ -1,0 +1,6 @@
+colorzero==2.0
+gpiozero==1.6.2
+picamera==1.13
+pygame==2.1.2
+RPi.GPIO==0.7.1
+opencv-python~=4.6.0
